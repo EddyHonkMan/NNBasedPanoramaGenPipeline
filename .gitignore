@@ -1,0 +1,13 @@
+__pycache__
+.DS_Store
+.idea
+/video_rgb/
+/venv/
+.ipynb_checkpoints
+*.jpg
+*.png
+*.zip
+*.mp4
+final_demo_data/ImageDisplay.java
+final_demo_data/readme.txt
+*.avi
